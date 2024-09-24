@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - [basic password project](https://github.com/barsa0412/reactproject/tree/main/passwoedvalidator)
 - Here is my lyrics project
 - [basic lyrics project](https://github.com/barsa0412/reactproject/tree/main/lyrics-finder)
+- Here is my parallax
+- [basic parallax website](http://127.0.0.1:5500/project3/pro3.html)
