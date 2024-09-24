@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Here are my projects
-- [Basic exkress akk with CURD opertion](./level1expresss)
+- [Basic exkress app with CURD opertion](./level1expresss)
+- Here is my password validator project
+- [basic password project](https://github.com/barsa0412/reactproject/tree/main/passwoedvalidator)
