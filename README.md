@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - [Basic exkress app with CURD opertion](./level1expresss)
 - Here is my password validator project
 - [basic password project](https://github.com/barsa0412/reactproject/tree/main/passwoedvalidator)
+- Here is my lyrics project
+- [basic lyrics project](https://github.com/barsa0412/reactproject/tree/main/lyrics-finder)
