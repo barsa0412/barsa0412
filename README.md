@@ -44,6 +44,13 @@ Here are some ideas to get you started:
 - Designed responsive user interfaces for seamless usage across devices.
 - Built RESTful APIs for efficient client-server communication.
 
+- # Women Safety Web
+(https://github.com/barsa0412/Women-Safety)
+A web-based women safety application developed using Python (Django) to help improve personal 
+safety through emergency assistance and location-based features.
+
+
+
 ### Here are my projects
 - [Basic exkress app with CURD opertion](./level1expresss)
 - Here is my password validator project
