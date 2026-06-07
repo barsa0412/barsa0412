@@ -1,4 +1,4 @@
-# Hi 👋, I'm S. Barsa Patro
+# Hi 👋, I'm S Barsa Patro
 
 ### 🚀 Software Developer | Java | Python | React | Django
 
