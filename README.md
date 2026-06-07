@@ -56,16 +56,6 @@ I'm a Computer Science student passionate about building full-stack web applicat
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=barsa0412\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=barsa0412\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=barsa0412\&layout=compact\&theme=tokyonight)
-
----
-
 # 🚀 Featured Projects
 
 ## 🏋️ FitTrack Pro
