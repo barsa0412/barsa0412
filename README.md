@@ -87,33 +87,45 @@ Python • Django • SQLite • HTML • CSS
 
 ---
 
-📊 Crime Analysis
+## 📊 Crime Analysis
 
 🔗 https://github.com/barsa0412/crime-analysis
 
-Crime data visualization and analysis.
-Interactive UI for exploring datasets.
+* Crime data visualization and analysis.
+* Interactive UI for exploring datasets.
 
-Tech: Python • Django • SQLite • HTML • CSS
+### Tech Stack
 
-🎨 Parallax Website
+Python • Django • SQLite • HTML • CSS
+
+---
+
+## 🎨 Parallax Website
 
 🔗 https://github.com/barsa0412/Parallax-Website
 
-Modern parallax scrolling website.
-Responsive layout and animations.
+* Modern parallax scrolling website.
+* Responsive layout and animations.
 
-Tech: HTML, CSS, JavaScript
+### Tech Stack
 
-🌍 Tour Management System
+HTML • CSS • JavaScript
+
+---
+
+## 🌍 Tour Management System
 
 🔗 https://github.com/barsa0412/tour-management
 
-Tour booking and management platform.
-Dynamic frontend and backend integration.
-User-friendly travel management system.
+* Tour booking and management platform.
+* Dynamic frontend and backend integration.
+* User-friendly travel management system.
 
-Tech: React, Express.js, Node.js, MongoDB
+### Tech Stack
+
+React • Express.js • Node.js • MongoDB
+
+---
 
 ## 📋 Express CRUD Application
 
