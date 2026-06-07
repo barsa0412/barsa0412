@@ -37,6 +37,13 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barsa0412&show_icons=true&locale=en&layout=compact" alt="barsa0412" /></p>
 
+### FitTrack Pro
+  (https://github.com/barsa0412/fittrack-pro)
+- Developed a fitness tracking web application using React.js, Node.js, Express.js, and MongoDB.
+- Implemented secure user authentication and workout management features.
+- Designed responsive user interfaces for seamless usage across devices.
+- Built RESTful APIs for efficient client-server communication.
+
 ### Here are my projects
 - [Basic exkress app with CURD opertion](./level1expresss)
 - Here is my password validator project
