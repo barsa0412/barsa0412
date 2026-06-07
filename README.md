@@ -96,6 +96,15 @@ Interactive UI for exploring datasets.
 
 Tech: Python • Django • SQLite • HTML • CSS
 
+🎨 Parallax Website
+
+🔗 https://github.com/barsa0412/Parallax-Website
+
+Modern parallax scrolling website.
+Responsive layout and animations.
+
+Tech: HTML, CSS, JavaScript
+
 🌍 Tour Management System
 
 🔗 https://github.com/barsa0412/tour-management
