@@ -44,13 +44,4 @@ Here are some ideas to get you started:
 - Designed responsive user interfaces for seamless usage across devices.
 - Built RESTful APIs for efficient client-server communication.
 
-### Here are my projects
-- [Basic exkress app with CURD opertion](./level1expresss)
-- Here is my password validator project
-- [basic password project](https://github.com/barsa0412/reactproject/tree/main/passwoedvalidator)
-- Here is my lyrics project
-- [basic lyrics project](https://github.com/barsa0412/reactproject/tree/main/lyrics-finder)
-- Here is my parallax
-- [basic parallax website](http://127.0.0.1:5500/project3/pro3.html)
-- here is my Personlist Project
-- [basic person list](https://github.com/barsa0412/reactproject/tree/main/axios-lab)
+
