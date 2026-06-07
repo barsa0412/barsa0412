@@ -87,6 +87,15 @@ Python • Django • SQLite • HTML • CSS
 
 ---
 
+📊 Crime Analysis
+
+🔗 https://github.com/barsa0412/crime-analysis
+
+Crime data visualization and analysis.
+Interactive UI for exploring datasets.
+
+Tech: Python • Django • SQLite • HTML • CSS
+
 🌍 Tour Management System
 
 🔗 https://github.com/barsa0412/tour-management
