@@ -87,6 +87,16 @@ Python • Django • SQLite • HTML • CSS
 
 ---
 
+🌍 Tour Management System
+
+🔗 https://github.com/barsa0412/tour-management
+
+Tour booking and management platform.
+Dynamic frontend and backend integration.
+User-friendly travel management system.
+
+Tech: React, Express.js, Node.js, MongoDB
+
 ## 📋 Express CRUD Application
 
 🔗 https://github.com/barsa0412/level1expresss
